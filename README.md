@@ -1,13 +1,4 @@
 Projeto ficticio de um Hortifruit 
 
-     \|||/
-     \|||/
-    _\|||/_
-   /_______\
-  / \ / \ / \
-  000  / \ 000
- | * | * | * |
- | / \ / \ / |
- | * | * | * |
-  \ / \ / \ /
-   \_______/
+ALUNO: DANIEL VIRGILIO
+RGM: 114.063
